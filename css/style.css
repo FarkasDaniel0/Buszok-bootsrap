@@ -1,0 +1,282 @@
+.lap_alap{
+    background-color: rgb(101, 91, 84);
+    height: 2000px;
+    width: 1250px;
+    margin: auto;
+}
+
+#navcontainer ul {
+    float:center;
+    width:100%;
+    margin:0;
+    padding:0;
+    font-size:25px;
+    color:#fff;
+    background:lightgrey;
+    border: gray 2px solid ;
+    font-family: 'Outrider';
+    }
+    #navcontainer ul li {
+    display:inline;
+    }
+    .Turista{
+        margin-left: 100px;
+    }
+    ul{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+     li{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    a{
+        color: black;
+        text-decoration: none;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    a:active{
+        color: gray;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+
+    }
+    a:hover{
+        color: #fff;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    .lap_varosi{
+        background-color: rgb(0, 133, 188);
+    height: 2250px;
+    width: 1250px;
+    margin: auto;
+    }
+    .varosi_szoveg{
+        color: white;
+    }
+    .lap_varosi h1{
+        border-bottom: white double 4px;
+        margin-left: 10px;
+        width: 500px;
+
+    }
+    .varosi_szoveg p{
+        color: white;
+        margin-left:10px ;
+        font-size: 20px;
+    }
+    .lap_tavolsagi{
+        background-color: rgb(247, 167,0);
+        height: 2000px;
+        width: 1250px;
+        margin: auto;
+    }
+    .lap_tavolsagi h1{
+        border-bottom: black double 4px;
+        margin-left: 10px;
+        width: 500px;
+        color: black;
+
+    }
+    .lap_tavolsagi p{
+        color: black;
+        margin-left:10px ;
+        font-size: 20px;
+    }
+
+    .turista_szoveg{
+        background-color: rgb(203,213,214);
+        height: 2000px;
+        width: 1250px;
+        margin: auto;
+    }
+    .turista_szoveg h1{
+        border-bottom: black double 4px;
+        margin-left: 10px;
+        width: 500px;
+        color: black;
+
+    }
+    .turista_szoveg p{
+        color: black;
+        margin-left:10px ;
+        font-size: 20px;
+    }
+    .lap_tura{
+        background-color: rgb(203,213,214);
+    height: 2000px;
+    width: 1250px;
+    margin: auto;
+    }
+    .kep1{
+        float: right;
+        width: 400px;
+        margin-top: -20px;
+        margin-right: 200px;
+        margin-bottom: 0px;
+        border: black 2px double;
+        box-shadow: 5px 5px 5px;
+    }
+    .kep2{
+        float: right;
+        width: 400px;
+        
+        margin-right: 10px;
+        margin-top: -125px;
+        border: black 2px double; box-shadow: 5px 5px 5px;
+    }
+    .kep3{
+        float: right;
+        width: 400px;
+        margin-top: -100px;
+        margin-right: 200px;
+        margin-top: -85px;
+        border: black 2px double; box-shadow: 5px 5px 5px;
+    }
+    .kep4{
+        float: right;
+        width: 400px;
+        
+        margin-right: 10px;
+        margin-top: -30px;
+        border: black 2px double; box-shadow: 5px 5px 5px;
+    }
+    .kep5{
+        float: right;
+        width: 400px;
+        
+        margin-right: -220px;
+        margin-top: 20px;
+        border: black 2px double; box-shadow: 5px 5px 5px;
+    }
+    .kep6{
+        float: right;
+        width: 400px;
+        margin-bottom: -10px;
+        margin-right: 10px;
+        margin-top: -80px;
+        border: black 2px double; box-shadow: 5px 5px 5px;
+    }
+    .kep7{
+        float: right;
+        width: 400px;
+        margin-right: 200px;
+        margin-top: -110px;
+        border: black 2px double; box-shadow: 5px 5px 5px;
+    }
+    .mySlides {display:none;}
+
+    .kep9{
+        float: right;
+        width: 225px;
+        margin-top: -60px;
+        margin-right: 150px;
+        margin-bottom: 0px;
+        border: black 2px double; box-shadow: 5px 5px 5px;
+    }    
+    
+
+    .kep10{
+        float: right;
+        width: 225px;
+        
+        margin-right: 10px;
+        margin-top: -50px;
+        border: black 2px double; box-shadow: 5px 5px 5px;
+    }   
+    
+    
+    .kep11{
+        float: right;
+        width: 200px;
+        margin-top: -30px;
+        margin-right: 150px;
+        margin-bottom: 0px;
+        border: black 2px double; box-shadow: 5px 5px 5px;
+    }   
+    
+
+    .kep12{
+        float: right;
+        width: 225px;
+        
+        margin-right: 10px;
+        margin-top: -10px;
+        border: black 2px double; box-shadow: 5px 5px 5px;
+    }   
+    .kep13{
+        float: right;
+        width: 225px;
+        
+        margin-right: 10px;
+        margin-top: -40px;
+        border: black 2px double; box-shadow: 5px 5px 5px;
+    }   
+    .kep14{
+        float: right;
+        width: 225px;
+        margin-top: -25px;
+        margin-right: 150px;
+        margin-bottom: 0px;
+        border: black 2px double; box-shadow: 5px 5px 5px;
+    }   
+    .kep15{
+        float: right;
+        width: 250px;
+        margin-top: -72px;
+        margin-right: 110px;
+        margin-bottom: 0px;
+        border: black 2px double; box-shadow: 5px 5px 5px;
+    }   
+    .kep16{
+        float: right;
+        width: 225px;
+        
+        margin-right: 10px;
+        margin-top: -80px;
+        border: black 2px double; box-shadow: 5px 5px 5px;
+    }   
+    .kep17{
+        float: right;
+        width: 250px;
+        margin-top: -80px;
+        margin-right: 110px;
+        margin-bottom: 0px;
+        border: black 2px double; box-shadow: 5px 5px 5px;
+    }   
+    .kep18{
+        float: right;
+        width: 225px;
+        margin-top: -10px;
+        margin-right: 150px;
+        margin-bottom: 0px;
+        border: black 2px double; box-shadow: 5px 5px 5px;
+    }   
+    .kep19{
+        float: right;
+        width: 225px;
+        margin-top: -70px;
+        margin-right: 150px;
+        margin-bottom: -30px;
+        border: black 2px double; box-shadow: 5px 5px 5px;
+    }   
+    .kep20{
+        float: right;
+        width: 225px;
+        
+        margin-right: 10px;
+        margin-top: -70px;
+        border: black 2px double; box-shadow: 5px 5px 5px;
+    }   
+    .video1{
+        margin-left: 300px ;    box-shadow: 5px 5px 5px;
+    }
+    .bevezeto{
+        font-family: Arial, Helvetica, sans-serif
+    }
+    @font-face {
+        font-family: 'Outrider';
+        src: local('fonts/outriderchromeital.ttf');
+      }
+
+      footer{
+          color: black;
+          font-size: 25px;
+      }
